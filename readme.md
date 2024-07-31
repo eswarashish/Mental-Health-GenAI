@@ -71,7 +71,7 @@ A demo of the application can be found on Hugging Face Spaces: [InfiHeal Demo](h
 - **Response**:
     ```json
     {
-        "response": responds to help with solutions and references
+        "response": " Iam here to help here are some solutions and suggestions with  references"
     }
     ```
 
