@@ -42,7 +42,7 @@ A demo of the application can be found on Hugging Face Spaces: [InfiHeal Demo](h
     uvicorn app:app --reload
     ```
 4. Or using devmode once requirements are installed:
-  ```sh
+    ```sh
     fastapi dev
     ```
 
